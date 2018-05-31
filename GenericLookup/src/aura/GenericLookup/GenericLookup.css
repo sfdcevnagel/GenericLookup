@@ -1,0 +1,61 @@
+.THIS .object-label{
+    padding-left: .5rem;
+    padding-right: .2rem;
+    font-size: medium;
+}
+
+.THIS .sel-obj-label{
+    padding-left: .5rem;
+    padding-right: .2rem;
+}
+.THIS .pill-item-size,.THIS .input-container {
+    width : 100%
+}
+
+.THIS .pill-container{
+    font-size: medium;
+    margin-top: .3%;
+    margin-right: .5%;
+    /*margin: .2rem;*/
+}
+
+.THIS .slds-pill__action{
+    padding-left : .8rem;
+}
+
+.THIS .slds-pill__remove{
+    padding-right : .8rem;
+}
+
+.THIS .input-no-border{
+    border : transparent;
+}
+.THIS .input-no-border:focus{
+    outline: transparent;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-top: .3%;
+    margin-right: .5%;
+}
+.THIS .lookup-container{
+    
+}
+
+.THIS .test{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    /* align-items: center; */
+    /* margin: auto; */
+}
